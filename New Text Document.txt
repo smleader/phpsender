@@ -1,0 +1,6 @@
+php mail.php compose.txt template.html test
+
+
+Host : mail.exchange.lintasarta.net
+user : test.la@banksulselbar.co.id
+pass : P@ssw0rdVAS123
